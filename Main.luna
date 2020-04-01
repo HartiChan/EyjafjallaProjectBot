@@ -16,7 +16,5 @@
 
 import Std.Base
 
-«0»def main:
+def main:
     None
-
-### META {"metas":[]}
